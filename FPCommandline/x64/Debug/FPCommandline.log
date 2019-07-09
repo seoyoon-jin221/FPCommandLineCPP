@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\seoyo\source\repos\FPCommandLineCPP\FPCommandline\Source.cpp(18,27): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\seoyo\source\repos\FPCommandLineCPP\FPCommandline\Source.cpp(101,26): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+  FPCommandline.vcxproj -> C:\Users\seoyo\source\repos\FPCommandLineCPP\x64\Debug\FPCommandline.exe
